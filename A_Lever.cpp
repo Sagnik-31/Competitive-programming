@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    ios::sync_with_stdio(false);
+    ios::sync_with_stdio(false);   //imp qs from contest
     cin.tie(nullptr);
 
     int t;
